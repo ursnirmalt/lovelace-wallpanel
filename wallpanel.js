@@ -159,7 +159,7 @@ const defaultConfig = {
 	style: {},
 	badges: [],
 	cards: [
-		{type: 'weather-forecast', entity: 'weather.home', show_forecast: true}
+		{type: 'weather-forecast', entity: 'weather.home', show_forecast: false}
 	],
 	card_interaction: false,
 	profile: '',
